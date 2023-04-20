@@ -1,0 +1,341 @@
+/* main css
+   
+ color: #08526d;
+  
+/* end main css*/ 
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+}
+
+
+/* start upper logo */
+
+
+.head-logo img{
+    
+    max-width: 50%;
+}
+    }
+.upper-logo{
+    
+        margin-top: 0;
+}
+
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    margin-top: 85px;
+    margin-bottom: 80px;
+    cursor: pointer;
+  
+}
+
+.upper-logo .p-logo img{
+    
+    margin-top: -105px;
+    max-width: 100%;
+    
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+   
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+}
+
+/* end upper logo */
+
+/* Start navbar */
+
+.navbar-nav  {
+    
+    font-size: 17px;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+
+
+
+/* End navbar */
+
+
+/* start carousel */
+
+
+.carousel-item img{
+    
+    
+    max-height: 650px;
+}
+
+.carousel-caption
+
+
+{
+    position: absolute;
+    top: 155px;
+    font-size: 55px;
+    
+}
+
+.carousel-caption h5
+{
+    font-size: 55px;
+}
+  
+.carousel-caption button a{
+    
+    text-decoration: none;
+    color: #fff;
+}
+.btn {
+    
+    background: none;
+    border-color: #fff;
+    font-weight: normal;
+    
+    
+}
+
+/* end carousel*/
+
+.section1{
+    
+    
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding: 20px;
+}
+
+.section1 h2{
+    
+    color: #08526d;
+    
+}
+
+
+
+.section1 p {
+    
+    line-height: 1.8;
+    font-size: 15px;
+
+     color: #989898;
+}
+
+
+.section2 {
+    
+    margin-top: 55px;
+    margin-bottom: 55px;
+    background-color: #F2F2F2;
+    padding: 20px;
+     
+}
+
+
+
+
+
+
+.section2 h2 {
+    color: #08526d;
+    margin-bottom: 20px;
+    margin-right: 60px;
+    margin-top: 20px
+    
+}
+
+
+.section2 p {
+    
+    line-height: 1.8;
+    font-size: 15px;
+     width: 80%;
+     margin: 0 auto 15px;
+     color: #989898;
+}
+
+
+.section4 {
+    
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding: 20px;
+
+     
+}
+
+
+
+
+.section7 {
+    
+    
+
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding: 20px;
+    background: #ececec;
+
+     
+}
+
+
+.section7 h2 {
+    color: #08526d;
+    margin-bottom: 20px;
+    margin-right: 60px;
+    margin-top: 20px;
+     margin: 0 auto 15px;
+    
+    
+}
+
+.section7 p {
+    
+    line-height: 2;
+     font-size: 15px;
+     margin: 0 auto 15px;
+     color: #989898;
+    padding: 5px;
+}
+
+
+.section7 .cards img {
+
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+
+
+.footer{
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 15px;;
+   
+   
+    
+}
+
+.footer .site-info h2{
+    
+    
+    margin-bottom: 10px;
+     margin-right: 40px;
+}
+
+.footer .site-info p {
+    
+    line-height: 1.8;
+    color: #727272;
+    
+}
+
+.footer .contact h2{
+    
+    margin-top: 5px;
+    margin-bottom: 28px;
+   
+    
+}
+
+.footer .site-info a {
+    
+    
+    color: #08526d;
+    font-size: 15px;
+
+}
+
+
+.svg-inline--fa.fa-w-10 {
+    width: 13px;
+    padding: 2px;
+    border: 1px solid #000;
+    border-radius: 30%;
+    margin-right: 5px;
+    background-color: #08526d;
+    color: #fff;
+    height: 14px;
+}
+
+svg:not(:root).svg-inline--fa{
+    
+    margin-left: 0;
+}
+
+.footer .site-info h2 span:first-of-type{
+    
+    color: #08526d;
+    font-weight: bold;
+}
+
+.footer .site-info h2 span:last-of-type{
+    
+    color: #ec1c23;
+}
+
+.footer .helpfull-links h2,
+.footer .contact h2{
+    
+    
+    color: #08526d;
+    margin-bottom: 50px;
+    margin-top: 5px;
+}
+
+.footer .contact ul li {
+    
+    
+    margin-bottom: 15px;
+}
+
+
+
+
+.footer .contact h2 {
+    
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+.copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}

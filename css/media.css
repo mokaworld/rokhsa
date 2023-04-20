@@ -1,0 +1,1813 @@
+/* START HOME PAGE */
+
+@media(min-width:1200px){
+    
+    
+    .head-logo img{
+        
+        max-width: 50%;
+        margin-left: 10px;
+
+    }
+ 
+  
+/*start-upperbar*/
+    
+.upper-logo{
+
+   border-bottom: 1px soli #ccc !important;
+    }
+.upper-logo .p-logo{
+         margin-top: 35px;
+
+    margin-bottom: -60px;
+}
+    .upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    max-height: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+    font-size: 20px;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+    
+}
+    .logo img{
+        
+    margin-top: 15px;
+    margin-bottom: 15px;
+    max-width: 40%;
+    }
+
+    .upper-logo .p-logo img{
+        
+    margin-top: -140px;
+    max-width:75%;
+        
+    }
+    /*end upperbar*/
+
+/* start section 1 */
+    
+    .section1 {
+    margin-top: 10px;
+    margin-bottom: -67px;
+
+}
+    .section1 h2{
+        
+        font-size: 22px;
+        color: #08526d;
+        
+    }
+    
+    .section1 p {
+        
+    line-height: 1.8;
+    font-size: 15px;
+    color: #989898;
+    }
+
+
+/* end  section 1 */
+
+/* start section 2 */
+
+
+    .section2{   
+  
+        margin-top: 45px;
+    margin-bottom: -50px;
+ 
+        }
+
+.section2 img{
+    
+    
+    max-width: 80%;
+}
+
+
+    .section2 h2{
+        color: #08526d;
+        font-size: 22px;
+        
+    }
+        .section2 p{
+       
+        font-size: 15px;
+        margin-right: 60px;
+}
+       
+    
+    
+    .section4 {
+    
+    margin-bottom: -64px ;
+    padding: ;
+    }
+
+ .section4 h2 {
+       color:#08526d;
+       font-size: 22px;
+       margin-right: 8px;
+    }
+
+     .section4 p {
+    
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+     margin-right: 8px;
+    }
+    
+    .section7 h2 {
+        
+       color:#08526d;
+       font-size: 22px;
+        margin-right: 8px;
+}
+        
+        
+        
+
+    .section7 p{
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 3px;
+        
+        
+    }
+
+    
+    .section7 .cards img {
+    max-width: 70%;
+    margin-bottom: 10px;
+    margin-right: 59px;
+}
+    
+    .footer{
+        
+            margin-top: -50px;
+        
+    }
+    
+    .footer .site-info h2 {
+        margin-bottom: 10px;
+        margin-right: 0px;
+        font-size: 22px;
+   
+    }
+    
+    .footer .site-info p{
+        
+    font-size: 15px !important;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 5px;
+        
+        
+        
+    }
+    
+    .head-logo img{
+        
+        max-width: 50%;
+        margin-left: 10px;
+
+    }
+ 
+}
+
+
+
+
+
+@media(min-width:992px){ /* SMALL SCREEN */
+    
+
+    
+   .navbar-light .navbar-brand{
+    
+   font-weight: bold;
+   font-size: 24px;
+    
+}
+    
+    .navbar-nav .nav-item{
+        
+        font-size: 14px;
+    }
+    
+       
+ 
+
+        .navbar-nav {
+        font-size: 14px;
+        margin-bottom: -20px;
+        text-align: right;
+        
+    }
+    
+        .navbar-nav .nav-item{
+        
+        margin-top: -10px !important;
+    }
+    
+    .navbar-nav .nav-item a{
+        
+        font-size: 14px !important;
+    }
+    
+    /* end navbar */
+    
+/*start-upperbar*/
+    
+.upper-logo{
+
+   border-bottom: 1px soli #ccc !important;
+    }
+.upper-logo .p-logo{
+         margin-top: 35px;
+
+    margin-bottom: -60px;
+}
+    .upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    max-height: 50px;
+   margin-top: 75px;
+    cursor: pointer;
+    font-size: 20px;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+    
+}
+    .logo img{
+        
+        
+        margin-top:5px;
+        margin-bottom: 15px;
+        max-width: 48%;
+    }
+
+    .upper-logo .p-logo img{
+        
+    margin-top: -140px;
+    max-width:75%;
+        
+    }
+    /*end upperbar*/
+
+/* start section 1 */
+    
+    .section1 {
+    margin-top: 10px;
+    margin-bottom: -67px;
+
+}
+    .section1 h2{
+        
+        font-size: 22px;
+        color: #08526d;
+        
+    }
+    
+    .section1 p {
+        
+    line-height: 1.8;
+    font-size: 15px;
+    color: #989898;
+    }
+
+
+/* end  section 1 */
+
+/* start section 2 */
+
+
+    .section2{   
+  
+        margin-top: 45px;
+    margin-bottom: -50px;
+ 
+        }
+
+.section2 img{
+    
+    
+    max-width: 80%;
+}
+
+
+    .section2 h2{
+        color: #08526d;
+        font-size: 22px;
+        
+    }
+        .section2 p{
+       
+        font-size: 15px;
+        margin-right: 60px;
+}
+       
+    
+    
+    .section4 {
+    
+    margin-bottom: -64px ;
+    padding: ;
+    }
+
+ .section4 h2 {
+       color:#08526d;
+       font-size: 22px;
+       margin-right: 8px;
+    }
+
+     .section4 p {
+    
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+     margin-right: 8px;
+    }
+    
+    .section7 h2 {
+        
+       color:#08526d;
+       font-size: 22px;
+        margin-right: 8px;
+}
+        
+        
+        
+
+    .section7 p{
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 3px;
+        
+        
+    }
+
+    
+    .section7 .cards img {
+    max-width: 70%;
+    margin-bottom: 10px;
+    margin-right: 59px;
+}
+    
+    .footer{
+        
+            margin-top: -50px;
+        
+    }
+    
+    .footer .site-info h2 {
+        margin-bottom: 10px;
+        margin-right: 0px;
+        font-size: 22px;
+   
+    }
+    
+    .footer .site-info p{
+        
+    font-size: 15px !important;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 5px;
+        
+        
+        
+    }
+    
+  
+    
+    
+}
+
+
+
+@media(min-width:768px){ /* SMALL SCREEN */
+    
+ 
+    
+   .navbar-light .navbar-brand{
+    
+   font-weight: bold;
+   font-size: 24px;
+    
+}
+    
+      
+
+        .navbar-nav {
+        font-size: 17px;
+        margin-bottom: -20px;
+        text-align: right;
+        
+    }
+    
+    /* end navbar */
+    
+/*start-upperbar*/
+    
+.upper-logo{
+
+   border-bottom: 1px soli #ccc !important;
+    }
+.upper-logo .p-logo{
+    
+    margin-top: 90px;
+    margin-bottom: -60px;
+}
+    .upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    max-height: 50px;
+    margin-top: 122px
+    cursor: pointer;
+    font-size: 20px;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+    
+}
+    .logo img{
+        
+    margin-top: 100px;
+    margin-bottom: 15px;
+    max-width: 35%;
+        
+    }
+
+    .upper-logo .p-logo img{
+        
+    margin-top: -140px;
+    max-width:75%;
+        
+    }
+    /*end upperbar*/
+
+/* start section 1 */
+    
+    .section1 {
+    margin-top: 10px;
+    margin-bottom: -67px;
+
+}
+    .section1 h2{
+        
+        font-size: 22px;
+        color: #08526d;
+        
+    }
+    
+    .section1 p {
+        
+    line-height: 1.8;
+    font-size: 15px;
+    color: #989898;
+    }
+
+
+/* end  section 1 */
+
+/* start section 2 */
+
+
+    .section2{   
+  
+        margin-top: 45px;
+    margin-bottom: -50px;
+ 
+        }
+
+.section2 img{
+    
+    
+    max-width: 80%;
+}
+
+
+    .section2 h2{
+        color: #08526d;
+        font-size: 22px;
+        
+    }
+        .section2 p{
+       
+        font-size: 15px;
+        margin-right: 60px;
+}
+       
+    
+    
+    .section4 {
+    
+    margin-bottom: -64px ;
+    padding: ;
+    }
+
+ .section4 h2 {
+       color:#08526d;
+       font-size: 22px;
+       margin-right: 8px;
+    }
+
+     .section4 p {
+    
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+     margin-right: 8px;
+    }
+    
+    .section7 h2 {
+        
+       color:#08526d;
+       font-size: 22px;
+        margin-right: 8px;
+}
+        
+        
+        
+
+    .section7 p{
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 3px;
+        
+        
+    }
+
+    
+    .section7 .cards img {
+    max-width: 70%;
+    margin-bottom: 10px;
+    margin-right: 59px;
+}
+    
+    .footer{
+        
+            margin-top: -50px;
+        
+    }
+    
+    .footer .site-info h2 {
+        margin-bottom: 10px;
+        margin-right: 0px;
+        font-size: 22px;
+   
+    }
+    
+    .footer .site-info p{
+        
+    font-size: 15px !important;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 5px;
+        
+        
+        
+    }
+    
+
+}
+
+/* end media 768 */
+
+@media(max-width:767px){ /* MOBILE & TAB*/
+    
+    /*start navbar */
+
+    
+   .navbar-light .navbar-brand{
+    
+   font-weight: bold;
+   font-size: 25px;
+       
+    
+}
+   
+    .navbar-nav {
+        font-size: 17px;
+        margin-bottom: -20px;
+        text-align: right;
+        
+    }
+    
+
+    /*start-upperbar*/
+    
+    .upper-logo{
+        
+      border-bottom: 1px soli #ccc !important;
+    }
+    
+    
+    .upper-logo .p-logo{
+        
+    margin-top: 55px;
+    margin-bottom: -60px;
+    }
+    
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    max-height: 50px;
+    margin-top:15px;
+    cursor: pointer;
+    font-size: 20px;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+    
+}
+    .logo img{
+        
+          margin-top: 5px;
+    margin-bottom: 15px;
+    max-width: 35%;
+    }
+
+    .upper-logo .p-logo img{
+        
+    margin-top: -140px;
+    max-width: 60%;
+        
+    }
+    /*end upperbar*/
+
+    /* start section1 */
+    
+    .section1 {
+    margin-top: 5px;
+    margin-bottom: -67px;
+
+}
+
+    .section1 h2{
+        
+        font-size: 22px !important;
+        color: #08526d;
+         margin-right: 52px !important;
+        
+    }
+    
+    .section1 p {
+        
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 5px;
+    }
+
+
+/* end section1 */
+
+/* start section 2 */
+
+
+    .section2{   
+  
+        margin-top: 45px;
+    margin-bottom: -50px;
+ 
+        }
+
+.section2 img {
+    max-width: 70%;
+    margin-top: 33px;
+    margin-left: 93px;
+
+        
+}
+    
+    .section2 h2{
+        color: #08526d;
+        font-size: 23px;
+        
+    }
+        .section2 p{
+       
+        font-size: 15px;
+    margin-right: 60px;
+}
+       
+    
+    
+    .section4 {
+    
+    margin-bottom: -64px ;
+    padding: ;
+    }
+
+ .section4 h2 {
+       color:#08526d;
+       font-size: 22px;
+         margin-right: 58px;
+    }
+
+     .section4 p {
+    
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+       margin-right: 58px;
+    }
+    
+    .section7 h2 {
+        
+        color:#08526d;
+       font-size: 22px;
+        margin-right: 58px
+        
+        
+    }
+    .section7 p{
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 58px
+        
+        
+    }
+
+    
+    .section7 .cards img {
+    max-width: 50%;
+    margin-bottom: 10px;
+    margin-right: 130px;
+}
+    
+    .footer{
+        
+            margin-top: -50px;
+        
+    }
+    
+    .footer .site-info h2 {
+        margin-bottom: 10px;
+        margin-right: 0px;
+        font-size: 22px;
+   
+    }
+    
+    .footer .site-info p{
+        
+    font-size: 15px;
+    line-height: 1.8;
+    font-size: 15px; 
+    color: #989898;
+    margin-right: 5px;
+        
+        
+        
+    }
+
+    .head-logo img{
+        
+        max-width: 50%;
+        margin-left: 10px;
+
+    }
+ 
+    
+    
+     }
+
+
+
+
+
+@media screen and (min-width:480px){
+
+        .head-logo img{
+        
+        max-width: 50%;
+        margin-left: 10px;
+
+    }
+ 
+   
+    .upper-logo .p-logo h1{
+        
+            margin-top: 65px;
+    }
+    
+    
+    .info h3{
+        
+        text-align: center;
+            font-size: 20px;
+    }
+    
+    .info p {
+        
+        font-size: 12px;
+        
+    }
+        .upper-logo .p-logo h1{
+        
+            margin-top: 65px;
+    }
+    
+    .image .driver1 img{
+        
+        max-width: 60%;
+            margin-top: 20px;
+    }
+    
+     .image .driver2 img{
+        
+        max-width: 60%;
+    }
+   
+    
+    .section2 img{
+        
+        margin-right: 60px;
+        
+    }
+    
+
+
+}
+
+
+@media screen and (min-width:420px){
+    
+    .upper-logo .p-logo h1{
+        
+            margin-top: 30px;
+    }
+    
+        .head-logo img{
+        
+        max-width: 50%;
+        margin-left: 10px;
+
+    }
+ 
+    
+
+}
+    
+
+@media screen and (max-width:360px){ /* SMALL SCREEN */
+    
+ 
+        .head-logo img{
+        
+        max-width: 50%;
+        margin-left: 10px;
+
+    }
+ 
+    .upper-logo .p-logo h1{
+        
+            margin-top: 65px;
+    }
+    
+    
+
+    .info h3{
+        
+        text-align: center;
+            font-size: 20px;
+    }
+    
+    .info p {
+        
+        font-size: 12px;
+        
+    }
+    
+    
+    .image .driver1 img{
+        
+    max-width: 50% !important;
+    margin-left: 130px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    }
+    
+      .image .driver2 img{
+        
+    max-width: 50% !important;
+    margin-left: 130px;
+    margin-top: 0px;
+    }
+    
+  
+    
+    .section1 h2{
+        
+        font-size: 20px !important;
+        color: #08526d;
+         margin-right: 8px !important;
+        
+    }
+    
+    .section1 p {
+        
+    line-height: 1.8;
+    font-size: 14px; 
+    color: #989898;
+    margin-right: 5px;
+    }
+    
+    
+    .section2 img{
+        
+        max-width: 50%;
+        margin-right: 60px;
+        
+    }    
+    
+    .section2 p {
+        
+        
+    max-width: 50%;
+    margin-right: 60px;
+    font-size: 15px;
+    }
+    
+    .section4 h2{
+        
+        font-size: 20px;
+        
+    }
+    
+    .section4 p{
+        
+    line-height: 1.8;
+    font-size: 14px; 
+    color: #989898;
+   
+        
+        
+    }
+    
+     
+    .section7 h2{
+        
+        font-size: 20px;
+        
+    }
+    
+    .section7 p{
+        
+    line-height: 1.8;
+    font-size: 14px; 
+    color: #989898;
+    }
+    
+    
+    .section7 .cards img{
+        
+        max-width: 50%;
+    margin-bottom: 10px;
+    margin-right: 60px;
+        
+    }
+    
+    .footer .site-info h2 {
+    margin-bottom: 10px;
+    margin-right: 5px;
+    font-size: 20px;
+    }
+    
+    
+      .footer .site-info p {
+       line-height: 1.8;
+    font-size: 14px; 
+    color: #989898;
+    }
+    
+
+}
+
+
+
+/*END HOME PAGE */
+
+
+
+
+
+
+/* START ROKHSUH EKYADA ELDAWLYA PAGE */
+
+
+@media(min-width:1200px){
+
+        /* start bradcrumb */
+    
+   
+    
+    .info h3 {
+        
+        font-size: 25px !important;
+        text-align: right !important;
+    }
+    
+    
+    .benf .sub-benf {
+    padding: 5px;
+    margin-bottom: 15px !important;
+    }
+    
+    .info p{
+        
+    font-size: 17px !important;
+
+    }
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+    
+      /* end bradcrumb */
+
+}
+
+
+@media(min-width:992px){
+
+    
+  
+      /* start upper logo */
+    
+   
+    .upper-logo .p-logo h1{
+        
+        
+      margin-top: 40px !important;
+    }
+    
+    .logo img {
+        
+        max-width: 30%;
+           
+    }
+    
+    .info h3{
+        
+        font-size: 20px;
+        
+    }
+    
+    .info p{
+        
+        font-size:13px;
+    }
+    
+    
+    .benf .sub-benf{
+        
+        margin-bottom: 10px;
+        
+    }
+    
+    
+    .image .driver1 img{
+        
+       max-width: 80% !important;
+      margin-top: 60px !important;
+    
+   
+    }
+    
+    .image .driver2 img{
+        
+    max-width: 80%;
+    margin-top: 15px;
+
+    margin-bottom: 15px;
+    }
+     /* end upper logo */
+      .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+}
+
+
+
+
+@media(min-width:768px){
+    
+  
+      /* start upper logo */
+    
+   
+    .upper-logo .p-logo h1{
+        
+        
+      margin-top: 40px !important;
+    }
+    
+    .logo img {
+        
+        max-width: 30%;
+           
+    }
+    
+    .info h3{
+        
+        font-size: 20px;
+        
+    }
+    
+    .info p{
+        
+        font-size:13px;
+    }
+    
+    
+    .benf .sub-benf{
+        
+        margin-bottom: 10px;
+        
+    }
+    
+    
+    .image .driver1 img{
+        
+       max-width: 80% !important;
+      margin-top: 60px !important;
+    
+   
+    }
+    
+    .image .driver2 img{
+        
+    max-width: 80%;
+    margin-top: 15px;
+
+    margin-bottom: 15px;
+        
+    }
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+     /* end upper logo */
+  
+
+@media(max-width:767px){
+
+   
+    .upper-logo .p-logo h1{
+        
+        
+      margin-top: 65px !important;
+    }
+    
+    .logo img {
+        
+        max-width: 30% !important;
+           
+    }
+    
+    .info h3{
+        
+        font-size: 20px !important;
+        
+    }
+    
+    .info p{
+        
+        font-size:13px !important;
+    }
+    
+    
+    .benf .sub-benf{
+        
+        margin-bottom: 5px !important;
+        
+    }
+    
+    
+    .image .driver1 img{
+        
+    max-width: 60% !important;
+    margin-top: 15px !important;
+    margin-left: 260px !important;
+   
+    }
+    
+    .image .driver2 img{
+        
+    max-width: 60% !important;
+    margin-top: 11px !important;
+    margin-left: 260px !important;
+    margin-bottom: 15px !important;
+    }
+     /* end upper logo */
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:360px){
+
+    
+    .upper-logo .p-logo h1{
+        
+            margin-top: 65px;
+    }
+    
+
+    .info h3{
+        
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .info p {
+        
+        font-size: 12px;
+        
+    }
+    
+    
+    .image .driver1 img{
+        
+    max-width: 80% ;
+    margin-left: 130px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    }
+    
+      .image .driver2 img{
+        
+    max-width: 80% ;
+    margin-left: 130px;
+    margin-top: 0px;
+    }
+    
+
+
+}
+
+
+
+/* END ROKHSUH EKYADA ELDAWLYA PAGE */
+
+
+
+
+
+
+
+/*START PRICE PAGE*/
+
+
+
+
+/* start price page */
+
+
+
+        /* start bradcrumb */
+    
+@media(max-width:767px){
+
+    
+      /* end bradcrumb */
+    
+      /* start upper logo */
+    
+   
+    .upper-logo .p-logo h1{
+        
+        
+  
+    
+    }
+    
+    .logo img {
+        
+        max-width: 30%;
+        margin-top: -5px;
+           
+    }
+
+     /* end upper logo */
+    
+      .warinig p {
+        
+        font-size: 17px;
+    }
+    
+    .head-table h2{
+        
+        
+        font-size: 20px;
+        margin-bottom: -20px;
+        
+    }
+
+    
+    .pay-way img {
+        
+        max-width: 70%;
+    margin-left: 25px;
+    margin-top: -20px;
+        
+    }
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+    /* end price page */
+    
+    
+}
+
+
+
+
+
+
+
+@media(min-width:768px){
+
+    /* start price page */
+
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+    
+   
+    .upper-logo .p-logo h1{
+        
+        
+    
+    
+    }
+    
+    .logo img {
+        
+        max-width: 30%;
+        margin-top: 100px;
+           
+    }
+
+     /* end upper logo */
+    
+    .head-table h2{
+        
+        
+        font-size: 20px;
+        margin-bottom: -20px;
+        
+    }
+    
+    .warinig p {
+        
+        font-size: 17px;
+    }
+
+    
+    .pay-way img {
+        
+        max-width: 65%;
+    margin-left: 50px;
+    margin-top: -20px;
+        
+    }
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+    /* end price page */
+    
+
+}
+
+
+
+
+
+@media(min-width:992px){
+    
+    
+        /* start price page */
+ 
+    
+      /* start upper logo */
+    
+   
+    .upper-logo .p-logo h1{
+        
+        
+    
+    
+    }
+    
+    .logo img {
+        
+        max-width: 30%;
+        margin-top: 100px;
+           
+    }
+
+     /* end upper logo */
+    
+    .head-table h2{
+        
+        
+        font-size: 20px;
+        margin-bottom: -20px;
+        
+    }
+    
+    .warinig p {
+        
+        font-size: 17px;
+    }
+
+    
+    .pay-way img {
+        
+        max-width: 65%;
+    margin-left: 50px;
+    margin-top: -20px;
+        
+    
+    }
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+    /* end price page */
+    
+    
+
+
+
+
+
+
+
+}
+@media(min-width:1200px){
+
+    /* start price page */
+        /* start bradcrumb */
+    
+    .breadcrumb{
+        
+        background-color: #343a40;
+        height: 15% !important;
+    }
+    .Breadcrumb-holder{
+        
+        background-color: #343a40;
+    }
+    
+     .breadcrumb .breadcrumb-item {
+        
+        padding: 3px;
+        
+    }
+    
+    .breadcrumb .breadcrumb-item a{
+        
+        text-decoration: none;
+        color: #fff;
+        font-size: 15px !important;
+        
+    }
+    
+     .breadcrumb .breadcrumb-item a:hover{
+        
+        
+        color: red;
+        
+    }
+    
+    .breadcrumb-item+.breadcrumb-item::before {
+    display: inline-block;
+    padding-right: .5rem;
+    color: #fff;
+    content: "/";
+    margin-left: 5px;
+    margin-right: 0;  
+}
+    
+      /* end bradcrumb */
+    
+      /* start upper logo */
+    
+   
+    .upper-logo .p-logo h1{
+        
+        
+    
+    
+    }
+    
+    .logo img {
+        
+        max-width: 30%;
+        margin-top: 100px;
+           
+    }
+
+     /* end upper logo */
+    
+    .head-table h2{
+        
+        
+        font-size: 20px;
+        margin-bottom: -20px;
+        
+    }
+    
+    .warinig p {
+        
+        font-size: 17px;
+    }
+
+    
+    .pay-way img {
+        
+    max-width: 41%;
+    margin-left: 100px;
+    margin-top: -20px;
+        
+    }
+    
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+    /* end price page */
+    
+}
+    
+    
+
+    
+
+/*END PRICE PAGE*/ 
+    
+    
+ /*START AGENT PAGE*/
+    
+    @media screen and (min-width: 0px) and (max-width:1800px){
+        
+        .btn{
+            
+            margin-top: 10px;
+                   
+        }
+        
+        .form-control{
+            
+            margin-bottom: 15px;
+            
+        }
+        textarea{
+            
+            height: 200px;
+        }
+    }
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

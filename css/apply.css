@@ -1,0 +1,125 @@
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+}
+
+
+.head-logo img{
+    
+    max-width: 50% !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+.navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-top: 0px;
+        font-size: 14px;
+}
+
+
+
+
+
+/* start upper logo */
+
+
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    margin-top: 140px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+   
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+}
+
+/* end upper logo */
+
+.form{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form input {
+    
+    margin-top: 10px;
+}
+.details{
+    
+        margin-top: 42px;
+}
+
+.details input{
+    
+    padding: 7px;
+}
+.form-group{
+    
+   margin-top: 45px;
+margin-bottom: 25px;
+    
+    
+}
+
+.copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+   
+}
+.pay-way{
+
+    margin-top: 15px;
+}
+
+
+.pay-way img{
+    
+    max-width: 90%;
+}
+
+.butt button {
+    
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 110px;
+    border: none;
+    height: 41px;
+
+}
+
+

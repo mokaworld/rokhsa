@@ -1,0 +1,132 @@
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+   
+}
+
+.head-logo img {
+    
+    max-width: 50%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+
+
+/* start upper logo */
+
+
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    margin-top: 140px;
+    margin-bottom: 80px;
+    cursor: pointer;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+   
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+}
+
+/* end upper logo */
+
+
+
+.benf .sub-benf{
+    
+    background-color:#f7f7f7;
+    margin-bottom: 24px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    max-width: 90%;
+}
+
+.benf  p{
+    
+    margin-top: 13px;
+    margin-right: 15px;
+    color: #6f6e6e;
+}
+
+.head h3{
+    margin-top:15px;
+    margin-bottom: 20px;
+    margin-right: 2px;
+    color: #08526d;
+}
+
+svg:not(:root).svg-inline--fa {
+    
+    margin-left: 15px;
+    color: #000;
+}
+
+.info h3 {
+    
+       margin-top: 15px;
+    margin-bottom:15px;
+    color: #08526d;
+}
+.info p {
+    
+    line-height: 1.8;
+    font-size: 15px;
+    color: #989898;
+}
+
+.info a{
+    
+    text-decoration: none;
+}
+
+.image .driver1 img {
+
+      max-width: 100% ;
+      margin-top: 63px;
+} 
+
+.image .driver2 img {
+
+    max-width: 100%;
+    margin-top: 8px;
+    margin-bottom: 20px;
+} 
+
+
+.copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}

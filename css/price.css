@@ -1,0 +1,105 @@
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+}
+
+.head-logo img {
+    
+    max-width: 50%;
+    
+}
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+
+
+
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    margin-top: 140px;
+    margin-bottom: 80px;
+    cursor: pointer;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+    font-size: 14px;
+   
+
+  
+}
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+}
+
+/* end upper logo */
+
+
+.head-table h2{
+    
+     margin-top: 30px;
+     margin-bottom: 30px;
+
+}
+
+
+
+.btn a{
+    
+    
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.main-table{
+    
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+
+.main-table tr:first-child td{
+    
+    
+    background-color: #333;
+    color: #fff;
+    padding: 7px;
+}
+
+p {
+    
+    margin-bottom: 25px;
+}
+
+.copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}

@@ -1,0 +1,102 @@
+
+body{
+    
+    font-family: 'Cairo', sans-serif;
+}
+
+
+.head-logo{
+    
+    
+    max-width: 50%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+
+
+
+
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    margin-top: 140px;
+    margin-bottom: 80px;
+    cursor: pointer;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+   
+
+  
+}
+
+
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+}
+
+@media screen and (max-width:767px){
+
+
+    .upper-logo .p-logo h1 {
+    margin-top: 60px!important;
+}
+    
+
+
+
+/* end upper logo */
+
+.agent h2{
+    
+    margin-top: 25px;
+    margin-bottom:25px;
+}
+
+form .form-control{
+    
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    
+}
+
+
+textarea{
+    
+    height: 200px;
+    
+}
+
+
+
+.copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}

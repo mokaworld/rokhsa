@@ -1,0 +1,151 @@
+body{
+    
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.head-logo img{
+    
+    
+     max-width: 50%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+
+.head-logo span:first-child{
+    
+    color: red;
+}
+
+.head-logo span:last-child{
+    
+    color: #fff;
+}
+
+
+
+/* start upper logo */
+
+
+.upper-logo .p-logo h1 {
+    
+    
+    font-weight: bold;
+    margin-top: 150px;
+    margin-bottom: 80px;
+    cursor: pointer;
+  
+}
+
+.upper-logo .p-logo h1 a {
+    
+    text-decoration: none;
+    color:#000;
+   
+
+  
+}
+
+
+@media screen and (max-width:767px){
+
+    
+      .upper-logo .p-logo h1 {
+    margin-top: 60px!important;
+
+}
+    
+    .logo img {
+    margin-top: -10px !important;
+    margin-bottom: 15px !important;
+    max-width: 35% !important;
+    margin-right: -5px !important;
+}
+
+
+.logo img {
+    max-width: 50%;
+    margin-right: 150px;
+    margin-top: 15px;
+}
+.upper-logo .p-logo h1 a:hover{
+    
+    color:  red;
+}
+
+/* end upper logo */
+
+
+
+/* start form */ 
+.contact{
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+
+.contact .form-group h1{  
+    margin-bottom: 15px;
+    color: #5f6368;
+ 
+    }
+
+
+
+.form-group input {
+    
+    margin-bottom: 15px;
+}
+
+.form-group button {
+    
+    margin-top: 15px;
+}
+
+.form-group textarea {
+    
+    height: 200px;
+    
+}
+
+.details{   
+
+    position: relative;
+    top: 10px;
+    left: 22px;
+}
+
+/* end form */ 
+
+    .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+
+
+

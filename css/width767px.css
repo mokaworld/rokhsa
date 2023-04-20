@@ -1,0 +1,248 @@
+/* start price page */   
+
+
+@media screen and (min-width:0px) and (max-width:767px){
+
+   
+    .p-logo h1 {
+        
+        font-size: 22px;
+        margin-top: 90px !important;
+        
+        
+    }
+    .p-logo img{
+        
+        margin-top: 10px;
+        max-width: 50%;
+    }
+    
+    .form h2{
+        
+        font-size: 19px;
+        margin-top: 15px;
+        margin-bottom: -20px;
+    }
+
+    .logo img{
+        
+        margin-top: 10px;
+        max-width: 30%;
+        margin-bottom: 15px;
+    }
+    
+    .details input{
+        
+        padding: 5px;
+    }
+    
+    .form input{
+        padding: 5px;
+    }
+    
+    
+    .pay-way img {
+   
+    }
+    
+    button{
+        
+    
+            margin-top: -30px;
+    }
+
+    
+}
+    
+    
+@media screen and (min-width:768px){
+    
+    
+     
+    .p-logo h1 {
+        
+        font-size: 22px;
+        margin-top: 90px !important;
+        
+        
+    }
+    .p-logo img{
+        
+        margin-top: 10px;
+        max-width: 50%;
+    }
+    
+    .form h2{
+        
+        font-size: 19px;
+        margin-top: 15px;
+        margin-bottom: -20px;
+    }
+
+    .logo img{
+        
+        margin-top: 80px;
+        max-width: 30%;
+        margin-bottom: 15px;
+    }
+    
+    .details{
+        
+        margin-top: 89px;
+    }
+    .details input{
+        
+        padding: 5px;
+    }
+    
+    .form input{
+        padding: 5px;
+        margin-bottom: 0px;
+        margin-top: 15px;
+    }
+    
+ 
+ 
+    }
+    
+    .pay-way img {
+ 
+    }
+    
+    button{
+        
+    
+            margin-top: -30px;
+    }
+
+    
+    
+    
+}
+    
+    
+    
+    
+    
+    
+@media screen and (min-width:992px){
+    
+
+    
+   
+    .p-logo h1 {
+        
+        font-size: 22px;
+        margin-top: 30% !important;
+        
+        
+    }
+    .p-logo img{
+        
+        margin-top: 10px;
+        max-width: 50%;
+    }
+    
+    .form h2{
+        
+        font-size: 19px;
+        margin-top: 15px;
+        margin-bottom: -20px;
+    }
+
+    .logo img{
+        
+        margin-top: 80px;
+        max-width: 30%;
+        margin-bottom: 15px;
+    }
+    
+    .details{
+        
+        margin-top: 89px;
+    }
+    .details input{
+        
+        padding: 5px;
+    }
+    
+    .form input{
+        padding: 5px;
+        margin-bottom: 0px;
+        margin-top: 15px;
+    }
+    
+
+    
+    .pay-way img {
+   
+    }
+    
+    button{
+        
+    
+            margin-top: -30px;
+    }
+
+    @media screen and (min-width:1200px){
+    
+    
+
+    .p-logo h1 {
+        
+        font-size: 22px;
+        margin-top: 30% !important;
+        
+        
+    }
+    .p-logo img{
+        
+        margin-top: 10px;
+        max-width: 50%;
+    }
+    
+    .form h2{
+        
+        font-size: 19px;
+        margin-top: 15px;
+        margin-bottom: -20px;
+    }
+
+    .logo img{
+        
+        margin-top: 100px;
+        max-width: 30%;
+        margin-bottom: 15px;
+    }
+    
+    .details{
+        
+        margin-top: 89px;
+    }
+    .details input{
+        
+        padding: 5px;
+    }
+    
+    .form input{
+        padding: 5px;
+        margin-bottom: 0px;
+        margin-top: 15px;
+    }
+    
+
+    .pay-way img {
+
+    }
+    
+    button{
+        
+    
+            margin-top: -30px;
+    }
+
+
+   
+    
+}
+    

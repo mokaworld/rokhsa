@@ -1,0 +1,589 @@
+@media screen and (max-width:767px){
+    
+    
+    
+   
+
+    .inst h1{
+        
+        font-size: 22px;
+    }
+    
+     .inst p{
+        
+        font-size: 18px;
+    }
+    
+    .q1 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q1 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q2 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q2 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q3 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q3 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q4 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q4 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q5 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q5 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q6 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q6 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q7 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q7 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q8 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q8 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q9 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q9 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q10 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q10 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q11 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q11 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q12 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q12 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q13 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q3 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+}
+
+@media screen and (min-width:768px){
+
+    
+     /* Start navbar */
+
+.navbar-nav  {
+    
+    font-size: 17px;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #fff;
+}
+
+.navbar-collapse  .navbar-nav .nav-item a:hover{ 
+    
+   color:  #ec1c23;
+}
+
+
+
+/* End navbar */
+.inst h1{
+        
+          font-size: 20px;
+        
+    }
+    
+         .inst p{
+        
+        font-size: 18px;
+    }
+    
+     .q1 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q2 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q2 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q3 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q3 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q4 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q4 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q5 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q5 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q6 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q6 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q7 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q7 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q8 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q8 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q9 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q9 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q10 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q10 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q11 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q11 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q12 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q12 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q13 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q3 p{
+        
+          font-size: 18px;
+        
+    }
+    
+        .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+}
+
+@media screen and (min-width:992px){
+    
+
+
+    inst h1{
+        
+          font-size: 20px;
+        
+    }
+    
+         .inst p{
+        
+        font-size: 18px;
+    }
+     .q1 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q2 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q2 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q3 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q3 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q4 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q4 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q5 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q5 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q6 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q6 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q7 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q7 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q8 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q8 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q9 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q9 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q10 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q10 p{
+        
+          font-size: 18px;
+        
+    }
+    
+    
+      .q11 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q11 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q12 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+     .q12 p{
+        
+          font-size: 18px;
+        
+    }
+    
+      .q13 h3{
+        
+          font-size: 20px;
+        
+    }
+    
+         .copyright{
+    
+    border-top: 1px solid #c0c0c0;
+    padding: 20px;
+    
+    
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-top: -2px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+}
